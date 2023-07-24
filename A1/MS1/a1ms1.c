@@ -3,10 +3,10 @@
 
 /*/////////////////////////////////////////////////////////////////////////
                         Assignment 1 - Milestone 1
-Full Name  :
-Student ID#:
-Email      :
-Section    :
+Full Name  : David Andres Sanchez Umbarila
+Student ID#: 140273228
+Email      : dasanchez-umbarila@myseneca.ca
+Section    : NBB
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
@@ -42,7 +42,7 @@ piece of work is entirely of my own creation.
 
 #include <stdio.h>
 
-#include "core.h"
+#include "core.c"
 
 // -----------------------------------------
 // Tester Function Prototypes
